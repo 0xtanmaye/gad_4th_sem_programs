@@ -1,0 +1,15 @@
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.vbproj.AssemblyReference.cache
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.AssemblyInfoInputs.cache
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.AssemblyInfo.vb
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.vbproj.CoreCompileInputs.cache
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net6.0\EvenOrOddConsoleApp.exe
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net6.0\EvenOrOddConsoleApp.deps.json
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net6.0\EvenOrOddConsoleApp.runtimeconfig.json
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net6.0\EvenOrOddConsoleApp.dll
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net6.0\EvenOrOddConsoleApp.pdb
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.dll
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\refint\EvenOrOddConsoleApp.dll
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.pdb
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\EvenOrOddConsoleApp.genruntimeconfig.cache
+D:\EXOR\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net6.0\ref\EvenOrOddConsoleApp.dll
