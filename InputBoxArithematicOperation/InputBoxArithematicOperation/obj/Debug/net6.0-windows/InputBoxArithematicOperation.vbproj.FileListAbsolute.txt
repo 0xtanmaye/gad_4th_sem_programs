@@ -1,0 +1,17 @@
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\bin\Debug\net6.0-windows\InputBoxArithematicOperation.exe
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\bin\Debug\net6.0-windows\InputBoxArithematicOperation.deps.json
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\bin\Debug\net6.0-windows\InputBoxArithematicOperation.runtimeconfig.json
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\bin\Debug\net6.0-windows\InputBoxArithematicOperation.dll
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\bin\Debug\net6.0-windows\InputBoxArithematicOperation.pdb
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.vbproj.AssemblyReference.cache
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.Form1.resources
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.vbproj.GenerateResource.cache
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.AssemblyInfoInputs.cache
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.AssemblyInfo.vb
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.vbproj.CoreCompileInputs.cache
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.dll
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\refint\InputBoxArithematicOperation.dll
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.pdb
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\InputBoxArithematicOperation.genruntimeconfig.cache
+D:\EXOR\InputBoxArithematicOperation\InputBoxArithematicOperation\obj\Debug\net6.0-windows\ref\InputBoxArithematicOperation.dll
