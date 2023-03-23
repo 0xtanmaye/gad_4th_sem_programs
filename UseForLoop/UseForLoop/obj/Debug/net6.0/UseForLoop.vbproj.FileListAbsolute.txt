@@ -1,0 +1,15 @@
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.vbproj.AssemblyReference.cache
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.AssemblyInfoInputs.cache
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.AssemblyInfo.vb
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.vbproj.CoreCompileInputs.cache
+D:\Sources\UseForLoop\UseForLoop\bin\Debug\net6.0\UseForLoop.exe
+D:\Sources\UseForLoop\UseForLoop\bin\Debug\net6.0\UseForLoop.deps.json
+D:\Sources\UseForLoop\UseForLoop\bin\Debug\net6.0\UseForLoop.runtimeconfig.json
+D:\Sources\UseForLoop\UseForLoop\bin\Debug\net6.0\UseForLoop.dll
+D:\Sources\UseForLoop\UseForLoop\bin\Debug\net6.0\UseForLoop.pdb
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.dll
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\refint\UseForLoop.dll
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.pdb
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\UseForLoop.genruntimeconfig.cache
+D:\Sources\UseForLoop\UseForLoop\obj\Debug\net6.0\ref\UseForLoop.dll
