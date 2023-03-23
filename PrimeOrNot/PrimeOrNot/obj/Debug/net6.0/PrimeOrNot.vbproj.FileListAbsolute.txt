@@ -1,0 +1,15 @@
+D:\Sources\PrimeOrNot\PrimeOrNot\bin\Debug\net6.0\PrimeOrNot.exe
+D:\Sources\PrimeOrNot\PrimeOrNot\bin\Debug\net6.0\PrimeOrNot.deps.json
+D:\Sources\PrimeOrNot\PrimeOrNot\bin\Debug\net6.0\PrimeOrNot.runtimeconfig.json
+D:\Sources\PrimeOrNot\PrimeOrNot\bin\Debug\net6.0\PrimeOrNot.dll
+D:\Sources\PrimeOrNot\PrimeOrNot\bin\Debug\net6.0\PrimeOrNot.pdb
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.vbproj.AssemblyReference.cache
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.AssemblyInfoInputs.cache
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.AssemblyInfo.vb
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.vbproj.CoreCompileInputs.cache
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.dll
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\refint\PrimeOrNot.dll
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.pdb
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\PrimeOrNot.genruntimeconfig.cache
+D:\Sources\PrimeOrNot\PrimeOrNot\obj\Debug\net6.0\ref\PrimeOrNot.dll

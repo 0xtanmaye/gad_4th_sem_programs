@@ -1,0 +1,17 @@
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\bin\Debug\net6.0-windows\ChangeFormBackColor.exe
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\bin\Debug\net6.0-windows\ChangeFormBackColor.deps.json
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\bin\Debug\net6.0-windows\ChangeFormBackColor.runtimeconfig.json
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\bin\Debug\net6.0-windows\ChangeFormBackColor.dll
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\bin\Debug\net6.0-windows\ChangeFormBackColor.pdb
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.vbproj.AssemblyReference.cache
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.Form1.resources
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.vbproj.GenerateResource.cache
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.AssemblyInfoInputs.cache
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.AssemblyInfo.vb
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.vbproj.CoreCompileInputs.cache
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.dll
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\refint\ChangeFormBackColor.dll
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.pdb
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ChangeFormBackColor.genruntimeconfig.cache
+D:\Sources\ChangeFormBackColor\ChangeFormBackColor\obj\Debug\net6.0-windows\ref\ChangeFormBackColor.dll
